@@ -1,4 +1,4 @@
-### ☕👋  Hi, I'm a web development student and I'm in the first year of information technology.
+### ☕👋  Hi, I'm development student and I'm in the first year of information technology.
 
 ![Gif-coracao](https://github.com/JulieneFlora/JulieneFlora/blob/main/giphyhello.gif)
 
