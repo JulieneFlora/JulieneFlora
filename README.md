@@ -16,9 +16,3 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
-
-<div>
-<h2>GitHub Stats</h2>
-<a href="https://github.com/JulieneFlora">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulieneFlora&layout=compact&langs_count=7&theme=dracula"/>
-</div>
